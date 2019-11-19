@@ -1,0 +1,5 @@
+﻿  Maintest.c
+d:\比特\test\10-4\10-4\slist.h(78): warning C4029: 声明的形参表不同于定义
+d:\比特\test\10-4\10-4\slist.h(100): warning C4029: 声明的形参表不同于定义
+  LINK : 没有找到 D:\比特\test\10-4\Debug\10-4.exe 或上一个增量链接没有生成它；正在执行完全链接
+  10-4.vcxproj -> D:\比特\test\10-4\Debug\10-4.exe
